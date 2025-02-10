@@ -7,6 +7,6 @@ num1 = 5
 num2 = 10
 
 # Call the function and print the result
-result = multiply(num1, num2)
+result = multiply(num1, num2, num3)
 print(f"The result of multiplying {num1} and {num2} is: {result}")
 
