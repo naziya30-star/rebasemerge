@@ -1,6 +1,6 @@
 # Function to multiply two numbers
-def multiply(a, b):
-    return a * b
+def multiply(a, b, c):
+    return a * b * c
 
 # Test the function
 num1 = 5
